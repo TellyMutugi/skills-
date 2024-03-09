@@ -1,0 +1,48 @@
+body{
+    background-color:lightsalmon;
+}
+#hero_section{
+height: 48vh;
+background-color: beige;
+display: flex;
+}
+.sec1{
+    width: 48%;
+    height: 100%;
+}
+}
+#fname{
+    font-size: 450%;
+}
+#Name{
+    text-align: center;
+}
+#flower{
+    width: 75%;
+    height: 60%;
+    border-radius: 45%;
+}#about{
+    display: flex;
+    }
+    .work{
+        text-align: center;
+        margin-top: 3%;
+        padding: 3%;
+    }
+#skills{
+    display:flex;
+}
+.set{
+    text-align: center;
+
+}
+#Contact_me{
+    margin: auto;
+}
+form{
+    border: 6px solid black;
+    width: 50%;
+    margin-left: 25;
+    padding 2%;
+    border-radius: 3% 3%;
+}
